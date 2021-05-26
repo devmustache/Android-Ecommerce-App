@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Black Dress Shoes",
+    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 200,
+    "isOnSale": true
+  },
+  {
+    "name": "Black Shirt",
+    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 1.99,
+    "isOnSale": true
+  },
+  {
+    "name": "Red Skirt for Women",
+    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 19.95,
+    "isOnSale": false
+  }
+]
