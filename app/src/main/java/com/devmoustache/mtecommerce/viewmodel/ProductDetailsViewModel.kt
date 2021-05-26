@@ -16,7 +16,7 @@ class ProductDetailsViewModel : ViewModel() {
     fun fetchProductDetails(productTitle: String) {
         viewModelScope.launch(Dispatchers .Default) {
             val json =
-                URL("produtos.json").readText()
+                URL("https://devmustache.github.io/Android-Ecommerce-App/produtos.json").readText()
             val list = Gson().fromJson(json, Array<Product>::class.java).toList()
             val product = list.first { it.title == productTitle }
 
