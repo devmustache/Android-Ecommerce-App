@@ -5,6 +5,6 @@ import retrofit2.http.GET
 
 interface EcommerceApi {
 
-    @GET("Android-Ecommerce-App/docs/allproducts.json")
+    @GET("Android-Ecommerce-App/docs/api/allproducts.json")
     suspend fun fetchAllProducts(): List<Product>
 }
