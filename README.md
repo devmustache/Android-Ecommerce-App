@@ -3,5 +3,5 @@
 
 # Para Acessar o Json consumido pela aplicação:
 https://devmustache.github.io/Android-Ecommerce-App/docs/produtos.json
-#
+</br>
 https://devmustache.github.io/Android-Ecommerce-App/docs/api/allproducts.json
