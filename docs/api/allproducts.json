@@ -1,0 +1,43 @@
+[{
+  "name": "Black hat for Men",
+  "price": 4.95,
+  "isOnSale": false,
+  "photo_url": "https:\/\/finepointmobile.com\/api\/ecommerce\/blackHat.jpg",
+  "description": "This authentic hat is perfect for men aged 27-29. All other men may wear but it might not fit their heads."
+}, {
+  "name": "Red hat for small girls",
+  "price": 192.95,
+  "isOnSale": true,
+  "photo_url": "https:\/\/finepointmobile.com\/api\/ecommerce\/redHat.jpg",
+  "description": "Gift this hat for your favorite 5 year old. At only $192.95, this is perhaps the best deal on this app! You'll love what it does for your child. You're welcome."
+}, {
+  "name": "Men's Slim cut blue jeans",
+  "price": 19.24,
+  "isOnSale": true,
+  "photo_url": "https:\/\/finepointmobile.com\/api\/ecommerce\/blueJeans.jpg",
+  "description": "Jeans, perfect for men. Made by men, washed by men, prepared by men, and hand-delivered to your front door by men."
+}, {
+  "name": "Denim Jacket, size 13",
+  "price": 27.09,
+  "isOnSale": false,
+  "photo_url": "https:\/\/finepointmobile.com\/api\/ecommerce\/denimJacket.jpg",
+  "description": "This is a denim jacket. Yes, a denim jacket. Don't ask me again, please."
+}, {
+  "name": "Professional Dress for Teen Girls",
+  "price": 29.99,
+  "isOnSale": true,
+  "photo_url": "https:\/\/finepointmobile.com\/api\/ecommerce\/teenGirlsDress.jpg",
+  "description": "Dress the part, girls."
+}, {
+  "name": "Men's Suit, Perfect for your wedding!",
+  "price": 485,
+  "isOnSale": false,
+  "photo_url": "https:\/\/finepointmobile.com\/api\/ecommerce\/weddingSuit.jpg",
+  "description": "Spice up your wedding with a suit, a wedding classic."
+}, {
+  "name": "Girlfriend Engagement Ring",
+  "price": 99999.99,
+  "isOnSale": false,
+  "photo_url": "https:\/\/finepointmobile.com\/api\/ecommerce\/engagementRing.jpg",
+  "description": "Show your girlfriend you love her by spending all your salary on a beautiful engagement ring she's sure to love."
+}]

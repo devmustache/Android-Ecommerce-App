@@ -12,7 +12,7 @@ class ProductsRepository {
 
     private fun retrofit(): EcommerceApi {
         return Retrofit.Builder()
-            .baseUrl("https://finepointmobile.com/")
+            .baseUrl("https://devmustache.github.io/")
             .addConverterFactory(GsonConverterFactory.create(GsonBuilder().create()))
             .build()
             .create(EcommerceApi::class.java)
@@ -41,7 +41,7 @@ class ProductsRepository {
 
     fun fetchProducts(): List<Product> {
         val json =
-            URL("https://devmustache.github.io/Android-Ecommerce-App/produtos.json").readText()
+            URL("https://devmustache.github.io/Android-Ecommerce-App/docs/produtos.json").readText()
         return Gson().fromJson(json, Array<Product>::class.java).toList()
     }
 }
